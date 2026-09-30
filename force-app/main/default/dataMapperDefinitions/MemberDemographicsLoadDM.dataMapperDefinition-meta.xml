@@ -99,6 +99,20 @@
     </dataMapperDefinitionItem>
     <dataMapperDefinitionItem>
         <dataMapperDefItemName>MemberDemographicsLoadDM</dataMapperDefItemName>
+        <formulaConverted>1 2 +</formulaConverted>
+        <formulaExpression>1+2</formulaExpression>
+        <formulaResultPath>Sum</formulaResultPath>
+        <formulaSequence>2.0</formulaSequence>
+        <globalKey>f6b05517-0c9c-44bf-ae12-517728cbdeba</globalKey>
+        <isDisabled>false</isDisabled>
+        <isRequiredForUpsert>false</isRequiredForUpsert>
+        <isUpsertKey>false</isUpsertKey>
+        <outputCreationSequence>0.0</outputCreationSequence>
+        <outputField>Formula</outputField>
+        <outputObject>Formula</outputObject>
+    </dataMapperDefinitionItem>
+    <dataMapperDefinitionItem>
+        <dataMapperDefItemName>MemberDemographicsLoadDM</dataMapperDefItemName>
         <globalKey>e280aa22-649a-4140-b4de-ecf91dc87213</globalKey>
         <inputField>MemberIdNumber</inputField>
         <isDisabled>false</isDisabled>
