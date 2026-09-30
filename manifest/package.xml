@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>68.0</version>
     <types>
+        <members>MemberEligibilityService</members>
+        <members>MemberEligibilityServiceTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Patient_Intake__c.Contact__c</members>
+        <members>Patient_Intake__c.Date_of_Birth__c</members>
+        <members>Patient_Intake__c.First_Name__c</members>
+        <members>Patient_Intake__c.Group_Number__c</members>
+        <members>Patient_Intake__c.Last_Name__c</members>
+        <members>Patient_Intake__c.Member_Id_number__c</members>
+        <members>Patient_Intake__c.Payer_Name__c</members>
+        <members>Patient_Intake__c.Phone_No__c</members>
+        <members>Patient_Intake__c.Relation_to_Subscriber__c</members>
+        <members>Patient_Intake__c.Visit_Reason__c</members>
+        <members>Patient_Intake__c.Visit_type__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Patient_Intake__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>MemberDemographicsLoadDM</members>
         <name>DataMapperDefinition</name>
     </types>
@@ -11,6 +34,10 @@
     <types>
         <members>MemberIntake_Submit_English</members>
         <name>IntegrationProcdDefinition</name>
+    </types>
+    <types>
+        <members>Patient_Intake__c.All</members>
+        <name>ListView</name>
     </types>
     <types>
         <members>TestOmniscript</members>
