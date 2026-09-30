@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OmniscriptDefinition xmlns="http://soap.sforce.com/2006/04/metadata">
+    <isActive>false</isActive>
+    <isManagedUsingStdDesigner>false</isManagedUsingStdDesigner>
+    <isOmniscriptReusable>false</isOmniscriptReusable>
+    <masterLabel>Test Omniscript</masterLabel>
+    <references>[]</references>
+</OmniscriptDefinition>
