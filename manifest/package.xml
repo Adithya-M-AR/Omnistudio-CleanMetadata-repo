@@ -29,6 +29,7 @@
     </types>
     <types>
         <members>ARM_Test_Card_Developer</members>
+        <members>MemberIntakeCard_Developer</members>
         <name>FlexcardDefinition</name>
     </types>
     <types>
